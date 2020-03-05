@@ -1,4 +1,5 @@
 Realizar la web
-Preparar el café
-Hacer la pelota al jefe
+Preparar el café - HECHO
+Hacer la pelota al jefe - Ya está hecho.
+Tienes que poner las página legales.
 ....
